@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Nice to see you! 
+
+I'm currently co-founders of the web agency [Aloe](https://github.com/Aloe-Corporation). Most of my work is located there !
+
+If you wan't to learn more about me, give an eye on the [vfs](https://github.com/FloRichardAloeCorp/vfs) project 👀.
+
 <!--
 **FloRichardAloeCorp/FloRichardAloeCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
