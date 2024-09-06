@@ -2,7 +2,7 @@
 
 Nice to see you!
 
-I'm currently a co-founder of the web agency Aloe. Most of my work is based there!
+I'm currently a co-founder of the web agency [Aloe](https://github.com/Aloe-Corporation). Most of my work is based there!
 
 If you want to learn more about me, take a look at the [VFS](https://github.com/FloRichardAloeCorp/vfs) project 👀.
 
