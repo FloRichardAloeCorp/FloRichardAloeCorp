@@ -10,7 +10,7 @@ If you want to learn more about me, take a look at the [VFS](https://github.com/
 
 I'm a French 🇫🇷 software engineer, and I’ve been crafting Golang backends for over 4 years. I love programming and challenging myself with new projects.
 
-Being quite curious, I also develop frontend apps with Next.js or Nuxt.js.
+Being quite curious, I also develop frontend apps with React/Next.js or Nuxt.js.
 <!--
 **FloRichardAloeCorp/FloRichardAloeCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
